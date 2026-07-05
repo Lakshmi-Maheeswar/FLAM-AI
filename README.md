@@ -172,17 +172,6 @@ python plot_fit.py
 
 ---
 
-# Output Files
-
-| File | Description |
-|------|-------------|
-| best_params.npy | Recovered parameters (NumPy format) |
-| best_params.txt | Human-readable recovered parameters |
-| validation_summary.txt | Multi-restart validation statistics |
-| noise_study.csv | Noise robustness study |
-| fit_validation.png | Overlay of observed data and recovered curve |
-
----
 
 # References
 
