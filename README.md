@@ -31,12 +31,6 @@ t*cos(0.5235987756)-e^(0.03*abs(t))*sin(0.3t)*sin(0.5235987756)+55,
 6 <= t <= 60
 ```
 
-**Domain**
-
-```text
-6 <= t <= 60
-```
-
 ---
 
 ## Desmos Visualization
