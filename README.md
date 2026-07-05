@@ -38,7 +38,7 @@ t*cos(0.5235987756)-e^(0.03*abs(t))*sin(0.3t)*sin(0.5235987756)+55,
 Replace the following with your saved Desmos link.
 
 ```
-https://www.desmos.com/calculator/YOUR_DESMOS_LINK
+https://www.desmos.com/calculator/hihn11ynqb
 ```
 
 ---
